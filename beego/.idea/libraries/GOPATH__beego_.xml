@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;beego&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/gopro/src/golang.org" />
+      <root url="file://$USER_HOME$/golog/src/github.com" />
+      <root url="file://$USER_HOME$/gopro/src/code" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/gopro/src/golang.org" />
+      <root url="file://$USER_HOME$/golog/src/github.com" />
+      <root url="file://$USER_HOME$/gopro/src/code" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

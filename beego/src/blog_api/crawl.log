@@ -1,0 +1,23 @@
+2017/07/17 10:54:55 [I] [asm_amd64.s:514] http://dantri.com
+2017/07/17 10:54:56 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m| 154.320222ms|   match|[44m GET     [0m /v1/crawl/   r:/v1/crawl/
+2017/07/17 10:57:52 [I] [asm_amd64.s:514] http://dantri.com
+2017/07/17 10:57:53 [I] [crawl.go:31] crawl
+2017/07/17 10:57:53 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  1.42987218s|   match|[44m GET     [0m /v1/crawl/   r:/v1/crawl/
+2017/07/17 16:41:18 [I] [asm_amd64.s:514] http://genk.vn
+2017/07/17 16:41:18 [I] [crawl.go:31] crawl
+2017/07/17 16:41:18 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m| 144.367524ms|   match|[44m GET     [0m /v1/crawl/   r:/v1/crawl/
+2017/07/17 16:41:50 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  45.733086ms|   match|[46m POST    [0m /v1/student/   r:/v1/student/
+2017/07/17 16:42:35 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  29.236555ms|   match|[41m DELETE  [0m /v1/student/1234   r:/v1/student/:studentId
+2017/07/17 16:43:21 [D] [server.go:2568] |      127.0.0.1|[47m 304 [0m|     46.096µs|   match|[44m GET     [0m /swagger/
+2017/07/17 16:43:21 [D] [server.go:2568] |      127.0.0.1|[47m 304 [0m|     41.221µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/07/17 16:43:41 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  67.911149ms|   match|[46m POST    [0m /v1/student/   r:/v1/student/
+2017/07/17 16:43:49 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|    469.482µs|   match|[46m POST    [0m /v1/student/   r:/v1/student/
+2017/07/17 16:44:19 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  67.156666ms|   match|[46m POST    [0m /v1/student/   r:/v1/student/
+2017/07/17 16:44:33 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|    369.726µs|   match|[44m GET     [0m /v1/student/   r:/v1/student/
+2017/07/18 09:57:27 [I] [asm_amd64.s:514] http://genk.vn
+2017/07/18 09:57:27 [I] [crawl.go:31] crawl
+2017/07/18 09:57:27 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|  97.471164ms|   match|[44m GET     [0m /v1/crawl/   r:/v1/crawl/
+2017/07/18 10:01:03 [D] [server.go:2568] |      127.0.0.1|[47m 304 [0m|    104.634µs|   match|[44m GET     [0m /swagger/
+2017/07/18 10:01:03 [D] [server.go:2568] |      127.0.0.1|[47m 304 [0m|     49.824µs|   match|[44m GET     [0m /swagger/swagger.json
+2017/07/18 10:01:36 [D] [server.go:2568] |      127.0.0.1|[47m 302 [0m|     52.891µs|   match|[44m GET     [0m /swagger
+2017/07/18 10:01:37 [D] [server.go:2568] |      127.0.0.1|[42m 200 [0m|    134.413µs|   match|[44m GET     [0m /swagger/swagger.json
